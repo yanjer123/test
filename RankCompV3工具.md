@@ -205,7 +205,7 @@ RankCompV3/bin/RankCompV3
 
 ##### （1）表达谱文件fn_expr.txt
 
-![image-20221008161103190](E:\资料\typora\图像\image-20221008161103190.png)
+![image-20221008161103190](https://github.com/Yanjj1/test/blob/master/fn_expr_hk_nonhk_gene_sample1.png)
 
 ##### （2）metadata文件
 
@@ -226,6 +226,7 @@ RankCompV3/bin/RankCompV3
 ###### 文件内容：
 
 <center class="half">
+	<iframe src="https://github.com/Yanjj1/RankCompV3-test-data-output/blob/master/RankCompV3_test_data_output/fn_expr_hk_nonhk_gene_sample1.pdf" style="width:800px; height:500px;" frameborder="0"></iframe>
     <embed id="pdfPlayer" src="https://github.com/Yanjj1/RankCompV3-test-data-output/blob/master/RankCompV3_test_data_output/fn_expr_hk_nonhk_gene_sample1.pdf" width="33%" height="250" >
     <embed id="pdfPlayer" src="../RankCompV3-test-data-output/RankCompV3_test_data_output/fn_expr_hk_nonhk_gene_sample6.pdf" width="33%" height="250" >
     <embed id="pdfPlayer" src="../RankCompV3-test-data-output/RankCompV3_test_data_output/fn_expr_hk_nonhk_gene_sample1.pdf" width="33%" height="250" >
